@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EventCollection>
+  <Chapters>
+    <Chapter title="MAIN">
+      <Events>
+        <Event title="INTRODUCTION" length="5">
+          <Day number="1">
+            <Item type="NEWSPAPER" preset="FALSE">
+              <ItemBlock type="image" image="NewspaperTitle 0"></ItemBlock>
+              <ItemBlock type="article" image="NewspaperFrontpage 0" title="A NEW WORLD!"></ItemBlock>
+              <ItemBlock type="image" image="NewspaperPhoto 0"></ItemBlock>
+            </Item>
+            <Item type="STATISTICS" preset="TRUE"></Item>
+            <Item type="LETTER">
+              <ItemBlock type="article" title="FIRST SECRETARY OF USR: First Day"></ItemBlock>
+            </Item>
+          </Day>
+        </Event>
+      </Events>
+    </Chapter>
+  </Chapters>
+</EventCollection>
